@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.resultado{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    background-color: var(--background-resultado);
+    color: var(--text-color-resultado);
+}
+.resultado.score{
+    background-color:var(--background-resultado);
+    border-radius: 50%;
+
+}

@@ -1,0 +1,8 @@
+:root{
+    /* Resultado */
+    --background-resultado: hsl(252, 100%, 67%);
+    --background-circulo-resultado: hsl(241, 81%, 54%);
+    --text-color-resultado: hsl(0, 0%, 100%);
+    --titulo-color-resultado: hsl(241, 100%, 89%);
+    
+}
